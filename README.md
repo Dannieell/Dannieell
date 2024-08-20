@@ -72,3 +72,5 @@ He desarrollado soluciones utilizando analítica descriptiva y predictiva con Py
 ## ¡Conectemos! 🌐
 
 Estoy siempre abierto a colaboraciones y discusiones. ¡Conectemos y exploremos juntos el mundo de la ciencia de datos! 🌍✨
+Linkedin: https://www.linkedin.com/in/daniel-gomero-6b1a62162/
+Correo Electronico: gomero_daniel@hotmail.com
