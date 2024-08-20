@@ -3,6 +3,7 @@
 👋 Soy Daniel Gomero, un apasionado de los datos que disfruta transformando datos crudos en conocimientos. Este repositorio de GitHub es mi espacio de experimentación, comparto mis proyectos.
 
 Resumen 📊
+
 Apasionado por la Analítica, estoy entusiasmado por crear modelos de machine learning que impacten en los KPI de los negocio. Mi objetivo es seguir una carrera como Científico de Datos en los sectores de Industrias, Tecnología y Retail.
 
 He desarrollado soluciones utilizando analítica descriptiva y predictiva con Python, SQL y herramientas de visualización de datos como Power BI.
